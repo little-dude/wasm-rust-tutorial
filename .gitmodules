@@ -1,0 +1,6 @@
+[submodule "wasm-rust-tutorial-www"]
+	path = wasm-rust-tutorial-www
+	url = git@github.com:little-dude/wasm-rust-tutorial-www.git
+[submodule "www"]
+	path = www
+	url = git@github.com:little-dude/wasm-rust-tutorial-www.git
